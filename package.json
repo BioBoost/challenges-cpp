@@ -1,0 +1,24 @@
+{
+  "name": "challenges-cpp",
+  "version": "1.0.0",
+  "description": "Challenges for the C++ Course of VIVES University College in Bruges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioBoost/challenges-cpp.git"
+  },
+  "keywords": [
+    "c++",
+    "challenges",
+    "programming"
+  ],
+  "author": "Nico De Witte <nico.dewitte@vives.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BioBoost/challenges-cpp/issues"
+  },
+  "homepage": "https://github.com/BioBoost/challenges-cpp#readme"
+}
