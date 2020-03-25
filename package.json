@@ -24,5 +24,8 @@
   "homepage": "https://github.com/BioBoost/challenges-cpp#readme",
   "devDependencies": {
     "vuepress": "^1.4.0"
+  },
+  "dependencies": {
+    "vuepress-theme-challenges": "0.0.1"
   }
 }
