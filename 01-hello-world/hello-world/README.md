@@ -12,7 +12,15 @@ notes:
 
 # Hello World
 
-Compile the `main.cpp` file into a binary called `hello` and run it.
+Compile the `src/main.cpp` file into a binary called `hello` and run it. Make sure it is present in the root directory of the challenge.
+
+## Check Your Solution
+
+Run the following command in this directory to check your solution:
+
+```bash
+node check/checker.js
+```
 
 ## Your Solution
 
