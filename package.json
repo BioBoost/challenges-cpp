@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/BioBoost/challenges-cpp/issues"
   },
-  "homepage": "https://github.com/BioBoost/challenges-cpp#readme"
+  "homepage": "https://github.com/BioBoost/challenges-cpp#readme",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
 }
