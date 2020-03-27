@@ -2,7 +2,7 @@
 name: Die Throwing
 description: Throw a 6-sided die 100'000 times
 details: ./02-basics-of-cpp-in-a-nutshell/die-throwing/README.md
-difficulty: Easy
+difficulty: Medium
 solution: false
 unitTests: false
 keywords: arrays random
