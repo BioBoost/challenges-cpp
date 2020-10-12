@@ -1,7 +1,7 @@
 ---
 name: Status Code
 description: Return different status code from main
-details: ./01-hello-world/status-code/README.md
+details: ./a-introductory/02-hello-world/status-code/README.md
 difficulty: Easy
 solution: false
 unitTests: false
