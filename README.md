@@ -8,11 +8,13 @@ Follow the instructions below if you are cloning this via GitHub Classroom.
 
 ### Cloning and fetching updates
 
-First clone the repository locally:
+Accept the invitation for the GitHub classroom assignment. Traverse to the repository once the import is finished. Copy the SSH url via the **lime green** `Code` button.
+
+Next clone the repository locally:
 
 ```bash
-git clone .....
-cd challenges-cpp-.....
+git clone cpp-challenges-NicoDeWitte
+cd cpp-challenges-NicoDeWitte
 ```
 
 Make a remote link to the original repo so you can fetch updates:
