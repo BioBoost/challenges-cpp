@@ -1,7 +1,7 @@
 ---
 name: Sum of all Integers
 description: Determine the sum of values in an array
-details: ./02-basics-of-cpp-in-a-nutshell/sum-of-all-integers/README.md
+details: ./b-fundamentals/08-functions/sum-of-all-integers/README.md
 difficulty: Easy
 solution: false
 unitTests: false

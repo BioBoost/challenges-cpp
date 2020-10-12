@@ -1,7 +1,7 @@
 ---
 name: Random Numbers
 description: Generate 10 random numbers and calculate sum and average
-details: ./02-basics-of-cpp-in-a-nutshell/random-numbers/README.md
+details: ./b-fundamentals/05-loops/random-numbers/README.md
 difficulty: Easy
 solution: false
 unitTests: false
