@@ -18,7 +18,7 @@ Is uses some functions and libraries to generate random numbers.
 
 Now change the code to print out 10 random numbers between `0` and `100` (both inclusive) while calculating the sum of the randomly generated numbers. No need to use arrays here. Use a for-loop construct for this.
 
-Last also display the average to the user.
+Last also display the sum and average to the user.
 
 ## Expected Output
 
